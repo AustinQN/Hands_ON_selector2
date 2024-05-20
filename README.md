@@ -1,1 +1,1 @@
-# Hands_ON_selector2
+# hands-on-selector-2
